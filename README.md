@@ -1,12 +1,12 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
 ---
 
 ## 📌 NextJS Projects
 
-- [Powerage Performance](https://powerage.technoxdemosite13.online/) - Ecom for Exhaust
+- [Powerage Performance](https://powerage.technoxdemosite13.online/) - Ecom for Exhaust for Bike
 - [Froth TestOps](https://frothtestops.com/) – Enterprise-level test management platform
 
 ---
