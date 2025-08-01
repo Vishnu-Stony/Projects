@@ -8,6 +8,8 @@ I have worked on **30+ professional web development projects**, using modern tec
 
 - [Powerage Performance](https://powerage.technoxdemosite13.online/) - Ecom for Exhaust for Bike
 - [Froth TestOps](https://frothtestops.com/) – Enterprise-level test management platform
+- [Technox](https://technox.in/) – Business Sites
+- [ClatoKl](https://clato-kl.com/) – Business Sites
 
 ---
 
@@ -35,7 +37,6 @@ I have worked on **30+ professional web development projects**, using modern tec
 ## 🧘 WordPress & Business Sites
 
 - [Cosmic Yoga Hub](https://cosmicyogahub.com/)
-- [Technox Technologies](https://technox.in/)
 - [Minerva Academy](https://minervaacademyofeducation.com/)
 - [Srimuruganthirumana Mahal](https://srimuruganthirumanamahal.com/)
 - [Takefit Gym](https://takefitgym.com/)
