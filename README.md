@@ -1,7 +1,14 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, Shopify, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
+---
+# 🛍️ Shopify Projects
+
+- [Pyurerich](https://pyurerich.com/) - Ecom for Exhaust for Bike
+- [6yarddrapestore](https://6yarddrapestore.com/) – Ecom for Dresses
+- [Safetyimpexin](https://safetyimpexin.com/) – Ecom for Engine Oil
+- [Valayaa](https://valayaa.com/) – Ecom for bangles and hair accessories
 ---
 
 ## 📌 NextJS Projects
