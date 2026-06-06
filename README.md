@@ -13,10 +13,13 @@ I have worked on **30+ professional web development projects**, using modern tec
 
 ## 📌 NextJS Projects
 
-- [Powerage Performance](https://powerage.technoxdemosite13.online/) - Ecom for Exhaust for Bike
+- [Powerage Performance](https://powerageperformance.com/) - Ecom for Exhaust for Bike
 - [Froth TestOps](https://frothtestops.com/) – Enterprise-level test management platform
 - [Technox](https://technox.in/) – Business Sites
 - [ClatoKl](https://clato-kl.com/) – Business Sites
+- [Happiliv Hostel](https://happilivhostels.com/) - Information website for Hostel
+- [Nurturepathtraining](https://nurturepathtraining.com) - Information website for Training Institution
+- [LakhsLand](https://lakhsland.com/) - product website with dynamic sections and performance optimization.
 
 ---
 
@@ -25,7 +28,7 @@ I have worked on **30+ professional web development projects**, using modern tec
 - [Froth CRM](https://frothcrm.com/) – Customer Relationship Management system
 - [Froth Desk](https://frothdesk.com/) – Support desk application
 - [Jaanvista Global](https://jaanvista.com/) – Business solutions platform
-- [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – Startup web platform
+- [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – Ecommerce web platform
 - [DCF Saudi Arabia](https://dcf.sa/) – Corporate site
 
 ---
