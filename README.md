@@ -1,89 +1,127 @@
-# 🌐 My Web Development Portfolio
+# 🌐 Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJS, Laravel, PHP, WordPress, JavaScript, Shopify, HTML, CSS, Bootstrap, Tailwind**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+Welcome to my web development portfolio! This repository showcases a selection of **30+ professional web development projects** that I have designed, developed, or contributed to using modern web technologies.
+
+## 🚀 Technologies
+
+- React.js
+- Next.js
+- Laravel
+- PHP
+- Shopify
+- WordPress
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- MySQL
+- REST APIs
 
 ---
+
 # 🛍️ Shopify Projects
 
-- [Pyurerich](https://pyurerich.com/) - Ecom for Exhaust for Bike
-- [6yarddrapestore](https://6yarddrapestore.com/) – Ecom for Dresses
-- [Safetyimpexin](https://safetyimpexin.com/) – Ecom for Engine Oil
-- [Valayaa](https://valayaa.com/) – Ecom for bangles and hair accessories
----
-
-## 📌 NextJS Projects
-
-- [Powerage Performance](https://powerageperformance.com/) - Ecom for Exhaust for Bike
-- [Froth TestOps](https://frothtestops.com/) – Enterprise-level test management platform
-- [Technox](https://technox.in/) – Business Sites
-- [ClatoKl](https://clato-kl.com/) – Business Sites
-- [Happiliv Hostel](https://happilivhostels.com/) - Information website for Hostel
-- [Nurturepathtraining](https://nurturepathtraining.com) - Information website for Training Institution
-- [LakhsLand](https://lakhsland.com/) - product website with dynamic sections and performance optimization.
-- [RspaceStudio](https://lakhsland.com/) - Modern responsive website for RspaceStudio, featuring interior design services, project showcases, clean UI, smooth animations, and an optimized user experience.
+- **[Pyurerich](https://pyurerich.com/)** – Shopify e-commerce website for premium motorcycle exhausts.
+- **[6 Yard Drapestore](https://6yarddrapestore.com/)** – Fashion e-commerce store for sarees and dresses.
+- **[Safety Impex](https://safetyimpexin.com/)** – Industrial lubricants and engine oil e-commerce website.
+- **[Valayaa](https://valayaa.com/)** – E-commerce store for bangles, jewelry, and fashion accessories.
 
 ---
 
-## ⚛️ React.js Projects
+# ⚡ Next.js Projects
 
-- [Froth CRM](https://frothcrm.com/) – Customer Relationship Management system
-- [Froth Desk](https://frothdesk.com/) – Support desk application
-- [Jaanvista Global](https://jaanvista.com/) – Business solutions platform
-- [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – Ecommerce web platform
-- [DCF Saudi Arabia](https://dcf.sa/) – Corporate site
-
----
-
-## 🏢 Laravel & Blade Projects
-
-- [Mashcall](https://mashcall.com/)
-- [Reverd](https://reverd.earth/)
-- [Minerva College of Catering](https://michm.in/)
-- [Robotico Digital](https://roboticodigital.com/)
-- [Jaanvista Global](https://jaanvista.com/)
-- [Shuki Exports](https://shukiexports.com/)
+- **[Powerage Performance](https://powerageperformance.com/)** – High-performance motorcycle exhaust e-commerce website.
+- **[Froth TestOps](https://frothtestops.com/)** – Enterprise-level test management platform.
+- **[Technox](https://technox.in/)** – Corporate business website.
+- **[Clato KL](https://clato-kl.com/)** – Modern responsive business website.
+- **[Happiliv Hostels](https://happilivhostels.com/)** – Hostel information and booking platform.
+- **[Nurture Path Training](https://nurturepathtraining.com/)** – Training institute website.
+- **[LakhsLand](https://lakhsland.com/)** – Product website with dynamic sections and performance optimization.
+- **RSpace Studio** – Modern responsive interior design website featuring project showcases, animations, and optimized user experience.
 
 ---
 
-## 🧘 WordPress & Business Sites
+# ⚛️ React.js Projects
 
-- [Cosmic Yoga Hub](https://cosmicyogahub.com/)
-- [Minerva Academy](https://minervaacademyofeducation.com/)
-- [Srimuruganthirumana Mahal](https://srimuruganthirumanamahal.com/)
-- [Takefit Gym](https://takefitgym.com/)
-- [Tach Electronics](https://tachelectronics.com/)
-- [Shrivenkateshwara Diabetic Care](https://shrivenkateshwaradiabeticcare.com/)
-
----
-
-## 🏘 Real Estate & Services
-
-- [Classic Escapes](https://classicescapes.in/)
-- [Sreedaksha Property](https://sreedaksha.com/)
-- [Sreedaksha Landshapers](https://sreedakshalandshapers.com/)
-- [Sivasri Group](https://www.sivasrigroup.com/)
+- **[Froth CRM](https://frothcrm.com/)** – Customer Relationship Management (CRM) platform.
+- **[Froth Desk](https://frothdesk.com/)** – Customer support and helpdesk application.
+- **[Jaanvista Global](https://jaanvista.com/)** – Business solutions platform.
+- **[Lark Brennet (Development)](https://dev.larkbrennet.com/)** – React.js-based e-commerce platform.
+- **[DCF Saudi Arabia](https://dcf.sa/)** – Corporate business website.
 
 ---
 
-## 👗 E-Commerce
+# 🏢 Laravel & PHP Projects
 
-- [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – React.js-based product showcase and branding
-- [Pyurerich (Dev)](https://pyurerich.com/) – Shopify-based product showcase and branding
-
----
-
-## 🧘‍♂️ Wellness & Yoga
-
-- [My Yoga Place](https://myyogaplace.in/)
+- **[Mashcall](https://mashcall.com/)**
+- **[Reverd](https://reverd.earth/)**
+- **[Minerva College of Catering](https://michm.in/)**
+- **[Robotico Digital](https://roboticodigital.com/)**
+- **[Jaanvista Global](https://jaanvista.com/)**
+- **[Shuki Exports](https://shukiexports.com/)**
 
 ---
 
-## 📁 How to Use This Repo
+# 🌍 WordPress Projects
 
-This repository showcases a selection of live projects I've worked on.  
-**Note:** For some projects, source code cannot be shared due to client confidentiality. However, I can provide code samples and project details upon request.
+- **[Cosmic Yoga Hub](https://cosmicyogahub.com/)**
+- **[Minerva Academy](https://minervaacademyofeducation.com/)**
+- **[Sri Murugan Thirumana Mahal](https://srimuruganthirumanamahal.com/)**
+- **[TakeFit Gym](https://takefitgym.com/)**
+- **[TACH Electronics](https://tachelectronics.com/)**
+- **[Sri Venkateshwara Diabetic Care](https://shrivenkateshwaradiabeticcare.com/)**
 
 ---
 
-📩 **Let's Collaborate!**  
-If you're interested in working together, feel free to reach out via GitHub or my contact details.
+# 🏘️ Real Estate & Property Projects
+
+- **[Classic Escapes](https://classicescapes.in/)**
+- **[Sreedaksha Property](https://sreedaksha.com/)**
+- **[Sreedaksha Landshapers](https://sreedakshalandshapers.com/)**
+- **[Sivasri Group](https://www.sivasrigroup.com/)**
+
+---
+
+# 🛒 E-Commerce Projects
+
+- **[Lark Brennet (Development)](https://dev.larkbrennet.com/)** – React.js e-commerce platform.
+- **[Pyurerich](https://pyurerich.com/)** – Shopify e-commerce website.
+- **[Powerage Performance](https://powerageperformance.com/)** – Next.js e-commerce website.
+
+---
+
+# 🧘 Wellness & Lifestyle
+
+- **[My Yoga Place](https://myyogaplace.in/)** – Yoga and wellness website.
+
+---
+
+# ✨ Highlights
+
+- ✅ 30+ Professional Client Projects
+- ✅ Responsive & Mobile-First Design
+- ✅ SEO-Friendly Development
+- ✅ High Performance & Optimization
+- ✅ REST API Integration
+- ✅ Authentication & Authorization
+- ✅ Payment Gateway Integration
+- ✅ Modern UI/UX
+- ✅ Cross-Browser Compatibility
+- ✅ Scalable & Maintainable Code
+
+---
+
+# 📁 About This Repository
+
+This repository showcases a collection of professional projects I have worked on across multiple industries.
+
+> **Note:** Many of these projects were developed for clients under confidentiality agreements (NDA). Therefore, the source code cannot be shared publicly. However, I would be happy to discuss my technical contributions, architecture, development process, and provide code samples during interviews or upon request.
+
+---
+
+## 📫 Contact
+
+If you're interested in collaborating, hiring me, or discussing any of these projects, feel free to connect with me.
+
+⭐ Thank you for visiting my portfolio!
