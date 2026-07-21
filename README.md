@@ -38,7 +38,7 @@ Welcome to my web development portfolio! This repository showcases a selection o
 - **[Happiliv Hostels](https://happilivhostels.com/)** – Hostel information and booking platform.
 - **[Nurture Path Training](https://nurturepathtraining.com/)** – Training institute website.
 - **[LakhsLand](https://lakhsland.com/)** – Product website with dynamic sections and performance optimization.
-- **RSpace Studio** – Modern responsive interior design website featuring project showcases, animations, and optimized user experience.
+- **[RSpace Studio](https://rspacestudio.com)** – Modern responsive interior design website featuring project showcases, animations, and optimized user experience.
 
 ---
 
