@@ -398,22 +398,4 @@ Alongside frontend development, I have hands-on experience with application depl
 
 ---
 
-# 📫 Contact
-
-I'm open to opportunities in:
-
-* Frontend Development
-* React.js Development
-* Next.js Development
-* Full Stack Development
-* DevOps
-* Cloud & Deployment
-
-If you're interested in working together, feel free to connect with me through GitHub or my portfolio.
-
----
-
-## ⭐ Portfolio
-
-**Portfolio:** .
 
